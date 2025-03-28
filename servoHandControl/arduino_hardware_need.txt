@@ -1,0 +1,3 @@
+-arduino uno
+- 2 micro servo
+- shield with HW-130 motor control
